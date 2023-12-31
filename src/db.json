@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "firstName": "falak",
+      "email": "falak@gmail.com",
+      "password": "123123123",
+      "confirmPassword": "123123123",
+      "id": 1
+    },
+    {
+      "firstName": "chetna",
+      "email": "abcde@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "id": 2
+    },
+    {
+      "firstName": "pranav",
+      "email": "pranav@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "id": 4
+    },
+    {
+      "firstName": "pinal",
+      "email": "j2@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "id": 5
+    },
+    {
+      "firstName": "pranav",
+      "email": "latika@gmail.com",
+      "password": "12121212",
+      "confirmPassword": "12121212",
+      "id": 6
+    },
+    {
+      "firstName": "kiran ",
+      "email": "Kiran@gmail.com",
+      "password": "12121212",
+      "confirmPassword": "12121212",
+      "id": 7
+    },
+    {
+      "firstName": "Poonam",
+      "email": "poonam12@gmail.com",
+      "password": "12121212",
+      "confirmPassword": "12121212",
+      "id": 8
+    },
+    {
+      "firstName": "chetana",
+      "email": "chetana@gmail.com",
+      "password": "12121212",
+      "confirmPassword": "12121212",
+      "id": 9
+    },
+    {
+      "firstName": "latika",
+      "email": "latika20@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
